@@ -1,2 +1,2 @@
-# HRM-Software-using-Red-Black-Trees
-Human Resource Management aka employee management system using C++ language.
+# Simple Employee management system
+Employee management system using C++ language.
